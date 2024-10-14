@@ -1,0 +1,10 @@
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar Ny.csprojAssemblyReference.cache
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar_Ny.Form1.resources
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar_Ny.Properties.Resources.resources
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar Ny.csproj.GenerateResource.cache
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar Ny.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\bin\Debug\Bollar Ny.exe.config
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\bin\Debug\Bollar Ny.exe
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\bin\Debug\Bollar Ny.pdb
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar Ny.exe
+C:\Users\Matilda\source\repos\Bollar Ny\Bollar Ny\obj\Debug\Bollar Ny.pdb
